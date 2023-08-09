@@ -1,0 +1,14 @@
+{
+  "servers": [
+    {
+      "name": "server1",
+      "command": "off",
+      "timestamp": "2023-08-09T10:30:00"
+    },
+    {
+      "name": "server2",
+      "command": "on",
+      "timestamp": "2023-08-09T11:30:00"
+    }
+  ]
+}
