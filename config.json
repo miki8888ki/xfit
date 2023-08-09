@@ -1,13 +1,23 @@
 {
   "servers": [
     {
-      "name": "server1",
+      "name": "a_prod",
       "command": "off",
       "timestamp": "2023-08-09T10:30:00"
     },
     {
-      "name": "server2",
-      "command": "on",
+      "name": "b_prod",
+      "command": "off",
+      "timestamp": "2023-08-09T11:30:00"
+    },
+    {
+      "name": "a_op",
+      "command": "off",
+      "timestamp": "2023-08-09T11:30:00"
+    },
+    {
+      "name": "b_op",
+      "command": "off",
       "timestamp": "2023-08-09T11:30:00"
     }
   ]
